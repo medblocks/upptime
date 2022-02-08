@@ -75,7 +75,7 @@ commitMessages:
   commitAuthorEmail: "dharsanborn98@gmail.com"
   readmeContent: "Update summary in README"
   summaryJson: "Update status summary"
-  statusChange: "EMOJI SITE_NAME is STATUS (RESPONSE_CODE in RESPONSE_TIME ms)"
+  # statusChange: "EMOJI SITE_NAME is STATUS (RESPONSE_CODE in RESPONSE_TIME ms)"
   graphsUpdate: "Update graphs"
 
 i18n:
