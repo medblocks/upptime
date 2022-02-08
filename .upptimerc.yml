@@ -73,10 +73,10 @@ status-website:
 commitMessages:
   commitAuthorName: "DharsanB"
   commitAuthorEmail: "dharsanborn98@gmail.com"
-  readmeContent: "Update summary in README"
-  summaryJson: "Update status summary"
-  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
-  graphsUpdate: "Update graphs"
+#   readmeContent: "Update summary in README"
+#   summaryJson: "Update status summary"
+#   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
+#   graphsUpdate: "Update graphs"
 
-i18n:
-  footer: This page is powered by [Upptime](https://upptime.js.org)
+# i18n:
+#   footer: This page is powered by [Upptime](https://upptime.js.org)
