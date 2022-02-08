@@ -1,31 +1,82 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: medblocks # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+user-agent: DharsanB
+
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: argocd
+    url: https://argocd.argocd.voiceintern.com
+    assignees:
+      - DharsanB
+  - name: auth
+    url: https://auth.test4.voiceintern.com
+    method: GET
+  - name: drx
+    url: https://drx.test4.voiceintern.com
+  - name: encounter
+    url: https://encounter.test4.voiceintern.com
+  - name: fhir
+    url: https://fhir.test4.voiceintern.com
+    assignees:
+      - DharsanB
+  - name: gphc
+    url: https://gphc.test4.voiceintern.com
+  - name: kasturba
+    url: https://kasturba.test4.voiceintern.com
+  - name: keto-admin
+    url: https://keto-admin.test4.voiceintern.com
+    expectedStatusCodes:
+      - 404
+  - name: keto-public
+    url: https://keto-public.test4.voiceintern.com
+    expectedStatusCodes:
+      - 404
+  - name: launchpad
+    url: https://launchpad.test4.voiceintern.com
+  - name: ndhm
+    url: https://ndhm.test4.voiceintern.com
+  - name: odoo
+    url: https://odoo.test4.voiceintern.com
+    assignees:
+      - DharsanB
+  - name: openehr
+    url: https://openehr.test4.voiceintern.com
+    expectedStatusCodes:
+      - 404
+  - name: snomed
+    url: https://snomed.test4.voiceintern.com/v1/snomed/search
+  - name: tester
+    url: https://tester.test4.voiceintern.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.voiceintern.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://medblocks.org/content/images/2021/11/logo.png
+  name: Status | Medblocks
+  introTitle: "**Medblocks**"
+  introMessage: This is a status monitoring site for all the Medblocks sites
+  theme: dark
+  favicon: https://medblocks.org/favicon.png
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: http://github.com/$OWNER/
+    - title: Status GitHub
+      href: http://github.com/$OWNER/$REPO
+    - title: Medblocks
+      href: https://medblocks.org/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "DharsanB"
+  commitAuthorEmail: "dharsanborn98@gmail.com"
+  readmeContent: "Update summary in README"
+  summaryJson: "Update status summary"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
+  graphsUpdate: "Update graphs"
+
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
