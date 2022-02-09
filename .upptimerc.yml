@@ -10,7 +10,7 @@ sites:
     assignees:
       - DharsanB
   - name: auth
-    url: https://auth.test4.voiceintern.com
+    url: https://auth.test4.voiceintern.com/.ory/kratos/health/alive
     method: GET
   - name: drx
     url: https://drx.test4.voiceintern.com
@@ -25,13 +25,9 @@ sites:
   - name: kasturba
     url: https://kasturba.test4.voiceintern.com
   - name: keto-admin
-    url: https://keto-admin.test4.voiceintern.com
-    expectedStatusCodes:
-      - 404
+    url: https://keto-admin.test4.voiceintern.com/health/alive
   - name: keto-public
-    url: https://keto-public.test4.voiceintern.com
-    expectedStatusCodes:
-      - 404
+    url: https://keto-public.test4.voiceintern.com/health/alive
   - name: launchpad
     url: https://launchpad.test4.voiceintern.com
   - name: ndhm
@@ -41,9 +37,8 @@ sites:
     assignees:
       - DharsanB
   - name: openehr
-    url: https://openehr.test4.voiceintern.com
-    expectedStatusCodes:
-      - 404
+    url: https://openehr.test4.voiceintern.com/ehrbase/rest/openehr/v1/definition/template/adl1.4
+    method: GET
   - name: snomed
     url: https://snomed.test4.voiceintern.com/v1/snomed/search
   - name: tester
