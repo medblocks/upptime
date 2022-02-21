@@ -37,7 +37,7 @@ sites:
     assignees:
       - DharsanB
   - name: openehr
-    url: https://openehr.test4.voiceintern.com/ehrbase/rest/openehr/v1/definition/template/adl1.4
+    url: https://openehr.test4.voiceintern.com/ehrbase/rest/status
     method: GET
   - name: snomed
     url: https://snomed.test4.voiceintern.com/v1/snomed/search
