@@ -1,7 +1,7 @@
 url: https://keto-admin.test4.voiceintern.com/health/alive
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2022-02-20T23:11:44.280Z
+status: down
+code: 403
+responseTime: 654
+lastUpdated: 2022-02-21T07:39:17.686Z
 startTime: Tue Feb 08 2022 14:19:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
