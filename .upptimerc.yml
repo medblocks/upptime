@@ -17,17 +17,13 @@ sites:
   - name: encounter
     url: https://encounter.test4.voiceintern.com
   - name: fhir
-    url: https://fhir.test4.voiceintern.com
+    url: https://fhir.test4.voiceintern.com/fhir/metadata
     assignees:
       - DharsanB
   - name: gphc
     url: https://gphc.test4.voiceintern.com
   - name: kasturba
     url: https://kasturba.test4.voiceintern.com
-  - name: keto-admin
-    url: https://keto-admin.test4.voiceintern.com/health/alive
-  - name: keto-public
-    url: https://keto-public.test4.voiceintern.com/health/alive
   - name: launchpad
     url: https://launchpad.test4.voiceintern.com
   - name: ndhm
