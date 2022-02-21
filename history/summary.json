@@ -86,19 +86,17 @@
     "icon": "https://favicons.githubusercontent.com/fhir.test4.voiceintern.com",
     "slug": "fhir",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2483,
     "timeDay": 1858,
     "timeWeek": 2069,
     "timeMonth": 2483,
     "timeYear": 2483,
-    "dailyMinutesDown": {
-      "2022-02-21": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gphc",
