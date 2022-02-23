@@ -1,7 +1,7 @@
 url: https://ndhm.test4.voiceintern.com
-status: up
-code: 200
-responseTime: 692
-lastUpdated: 2022-02-22T23:12:57.322Z
+status: down
+code: 500
+responseTime: 755
+lastUpdated: 2022-02-23T16:34:39.469Z
 startTime: Tue Feb 08 2022 14:19:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
