@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/auth.test4.voiceintern.com",
     "slug": "auth",
     "status": "up",
-    "uptime": "95.50%",
+    "uptime": "95.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "95.50%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
     "time": 895,
     "timeDay": 793,
     "timeWeek": 756,
@@ -177,9 +177,9 @@
     "url": "https://odoo.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/odoo.test4.voiceintern.com",
     "slug": "odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -188,7 +188,9 @@
     "timeWeek": 1447,
     "timeMonth": 1464,
     "timeYear": 1464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "openehr",
