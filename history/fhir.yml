@@ -1,7 +1,7 @@
 url: https://fhir.test4.voiceintern.com/fhir/metadata
-status: down
-code: 404
-responseTime: 745
-lastUpdated: 2022-03-07T10:08:41.810Z
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2022-03-07T10:17:35.424Z
 startTime: Tue Feb 08 2022 14:19:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
