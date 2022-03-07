@@ -17,7 +17,7 @@ sites:
   - name: encounter
     url: https://encounter.test4.voiceintern.com
   - name: fhir
-    url: https://fhir.test4.voiceintern.com/metadata
+    url: https://fhir.test4.voiceintern.com/fhir/metadata
     assignees:
       - DharsanB
   - name: gphc
