@@ -85,19 +85,19 @@
     "url": "https://fhir.test4.voiceintern.com/fhir/metadata",
     "icon": "https://favicons.githubusercontent.com/fhir.test4.voiceintern.com",
     "slug": "fhir",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 2635,
-    "timeDay": 1553,
-    "timeWeek": 1955,
-    "timeMonth": 2635,
-    "timeYear": 2635,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 2598,
+    "timeDay": 1445,
+    "timeWeek": 1867,
+    "timeMonth": 2598,
+    "timeYear": 2598,
     "dailyMinutesDown": {
-      "2022-03-07": 179
+      "2022-03-07": 188
     }
   },
   {
