@@ -4,10 +4,10 @@
     "url": "https://argocd.argocd.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/argocd.argocd.voiceintern.com",
     "slug": "argocd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 849,
@@ -16,6 +16,7 @@
     "timeMonth": 849,
     "timeYear": 849,
     "dailyMinutesDown": {
+      "2022-03-08": 1,
       "2022-02-20": 24
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://auth.test4.voiceintern.com/.ory/kratos/health/alive",
     "icon": "https://favicons.githubusercontent.com/auth.test4.voiceintern.com",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "96.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "96.86%",
     "time": 870,
@@ -36,6 +37,7 @@
     "timeMonth": 870,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2022-03-08": 1,
       "2022-02-20": 24,
       "2022-02-14": 22,
       "2022-02-09": 633,
@@ -47,10 +49,10 @@
     "url": "https://drx.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/drx.test4.voiceintern.com",
     "slug": "drx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
@@ -58,17 +60,19 @@
     "timeWeek": 730,
     "timeMonth": 731,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 1
+    }
   },
   {
     "name": "encounter",
     "url": "https://encounter.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/encounter.test4.voiceintern.com",
     "slug": "encounter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 829,
@@ -77,6 +81,7 @@
     "timeMonth": 829,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2022-03-08": 1,
       "2022-02-20": 24
     }
   },
@@ -85,19 +90,19 @@
     "url": "https://fhir.test4.voiceintern.com/fhir/metadata",
     "icon": "https://favicons.githubusercontent.com/fhir.test4.voiceintern.com",
     "slug": "fhir",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "96.35%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "96.34%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.08%",
     "time": 2524,
-    "timeDay": 808,
+    "timeDay": 790,
     "timeWeek": 1671,
     "timeMonth": 2524,
     "timeYear": 2524,
     "dailyMinutesDown": {
-      "2022-03-08": 190,
+      "2022-03-08": 191,
       "2022-03-07": 179
     }
   },
@@ -106,9 +111,9 @@
     "url": "https://gphc.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/gphc.test4.voiceintern.com",
     "slug": "gphc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,16 +122,18 @@
     "timeWeek": 752,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "kasturba",
     "url": "https://kasturba.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/kasturba.test4.voiceintern.com",
     "slug": "kasturba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,16 +142,18 @@
     "timeWeek": 755,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "launchpad",
     "url": "https://launchpad.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/launchpad.test4.voiceintern.com",
     "slug": "launchpad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,16 +162,18 @@
     "timeWeek": 719,
     "timeMonth": 742,
     "timeYear": 742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "ndhm",
     "url": "https://ndhm.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/ndhm.test4.voiceintern.com",
     "slug": "ndhm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "89.10%",
+    "uptimeDay": "89.08%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.49%",
@@ -181,9 +192,9 @@
     "url": "https://odoo.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/odoo.test4.voiceintern.com",
     "slug": "odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "86.17%",
+    "uptimeDay": "86.15%",
     "uptimeWeek": "98.02%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
@@ -201,9 +212,9 @@
     "url": "https://openehr.test4.voiceintern.com/ehrbase/rest/status",
     "icon": "https://favicons.githubusercontent.com/openehr.test4.voiceintern.com",
     "slug": "openehr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -212,7 +223,9 @@
     "timeWeek": 726,
     "timeMonth": 831,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "snomed",
