@@ -1,7 +1,7 @@
 url: https://auth.test4.voiceintern.com/.ory/kratos/health/alive
 status: up
 code: 200
-responseTime: 794
-lastUpdated: 2022-03-08T10:22:31.646Z
+responseTime: 708
+lastUpdated: 2022-03-08T23:03:07.707Z
 startTime: Tue Feb 08 2022 14:19:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
