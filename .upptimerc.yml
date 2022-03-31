@@ -29,7 +29,7 @@ sites:
   - name: ndhm
     url: https://ndhm.test4.voiceintern.com
   - name: odoo
-    url: https://odoo.test4.voiceintern.com
+    url: https://odoo.test4.voiceintern.com/web/login
     assignees:
       - DharsanB
   - name: openehr
