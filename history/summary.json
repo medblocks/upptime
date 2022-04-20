@@ -50,19 +50,19 @@
     "url": "https://drx.test4.voiceintern.com",
     "icon": "https://favicons.githubusercontent.com/drx.test4.voiceintern.com",
     "slug": "drx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 11286,
-    "timeWeek": 3080,
-    "timeMonth": 1382,
-    "timeYear": 978,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 975,
+    "timeDay": 7752,
+    "timeWeek": 2841,
+    "timeMonth": 1362,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 16
     }
   },
   {
