@@ -207,10 +207,10 @@
     "url": "https://openehr.test4.voiceintern.com/ehrbase/rest/status",
     "icon": "https://favicons.githubusercontent.com/openehr.test4.voiceintern.com",
     "slug": "openehr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 796,
@@ -219,7 +219,7 @@
     "timeMonth": 777,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2022-04-21": 2
+      "2022-04-21": 0
     }
   },
   {
