@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/argocd.argocd.voiceintern.com",
     "slug": "argocd",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 823,
     "timeDay": 727,
     "timeWeek": 934,
     "timeMonth": 812,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-04-20": 14,
       "2022-02-20": 24
     }
   },
@@ -26,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/auth.test4.voiceintern.com",
     "slug": "auth",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "98.41%",
     "time": 1034,
     "timeDay": 748,
     "timeWeek": 1856,
     "timeMonth": 1237,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2022-04-20": 14,
       "2022-04-16": 245,
       "2022-04-15": 116,
       "2022-03-22": 28,
@@ -53,18 +51,18 @@
     "icon": "https://favicons.githubusercontent.com/drx.test4.voiceintern.com",
     "slug": "drx",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 969,
     "timeDay": 5972,
     "timeWeek": 2641,
     "timeMonth": 1342,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2022-04-20": 30
+      "2022-04-20": 16
     }
   },
   {
@@ -209,9 +207,9 @@
     "url": "https://openehr.test4.voiceintern.com/ehrbase/rest/status",
     "icon": "https://favicons.githubusercontent.com/openehr.test4.voiceintern.com",
     "slug": "openehr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -220,7 +218,9 @@
     "timeWeek": 789,
     "timeMonth": 767,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "snomed",
